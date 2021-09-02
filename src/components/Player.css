@@ -1,0 +1,15 @@
+.player {
+    width: 45%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.player img {
+    width: 200px;
+    height: 200px;
+}
+
+.player-style {
+    transform: scaleX(-1);
+}

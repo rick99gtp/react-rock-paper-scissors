@@ -1,0 +1,9 @@
+.labels {
+    display: flex;
+    justify-content: space-around;
+}
+
+.label {
+    text-align: center;
+    width: 100%;
+}
